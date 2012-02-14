@@ -43,7 +43,7 @@ module Nanoc3::DataSources
           :filename  => filename,
         }
         attributes[:is_hidden] = true unless config[:hide_items] == false
-        identifier = filename[(prefix.length+1)..-1] + '/'
+        identifier = filename + '/'
 
         mtime      = File.mtime(filename)
         checksum   = checksum_for(filename)

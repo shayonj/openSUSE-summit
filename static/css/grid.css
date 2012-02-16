@@ -8,18 +8,12 @@
 /* =Containers
 --------------------------------------------------------------------------------*/
 
-.container_12
+.container_12,
+.container_16
 {
 	width: 92%;
 	margin-left: 4%;
 	margin-right: 4%;
-}
-
-.container_16
-{
-	width: 89%;
-	margin-left: 6%;
-	margin-right: 6%;
 }
 
 /* =Grid >> Global
@@ -66,15 +60,10 @@
 	width: 73%;
 }
 
-.container_12 .grid_12
-{
-	width: 98%;
-}
-
+.container_12 .grid_12,
 .container_16 .grid_16
 {
-	width: 940px;
-  
+	width: 98%;
 }
 
 /* =Grid >> Children (Alpha ~ First, Omega ~ Last)

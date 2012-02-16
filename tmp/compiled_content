@@ -1,4 +1,4 @@
-{:	data{FI"/:ET{:default{	:	lastI"K#<!DOCTYPE HTML>
+{:	data{FI"/:ET{:default{	:	lastI"ß"<!DOCTYPE HTML>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -78,15 +78,13 @@
     </div>
   <div id="content" class="container_16  content-wrapper">
     <!-- Display slider -->
-<div id="display" class="container_16  content-wrapper">
-	<div id="display-content" class="grid_16 box box-shadow">
-
-
+<p>
+<center>
 		<div id="featured"> 
 		
 			<img src="/orbit/os.jpg"  />
-			<img src="/orbit/os1.jpg"  />
-			<img src="/orbit/os1.jpg"  />
+			<img src="/orbit/os.jpg"  />
+			<img src="/orbit/os.jpg"  />
 		</div>
 		<!-- Captions for Orbit -->
 		<span class="orbit-caption" id="htmlCaption"><strong>I'm A Badass Caption:</strong> I can haz <a href="#">links</a>, <em>style</em> or anything that is valid markup :)</span>
@@ -94,10 +92,8 @@
 
 
 	</div>
-
-</div>
-
-</div>
+</center>
+</p>
 <!-- End: Slider -->
 
 
@@ -175,16 +171,14 @@
   </div>
 </body>
 </html>
-;T:rawI"	<!-- Display slider -->
-<div id="display" class="container_16  content-wrapper">
-	<div id="display-content" class="grid_16 box box-shadow">
-
-
+;T:rawI"¦<!-- Display slider -->
+<p>
+<center>
 		<div id="featured"> 
 		
 			<img src="/orbit/os.jpg"  />
-			<img src="/orbit/os1.jpg"  />
-			<img src="/orbit/os1.jpg"  />
+			<img src="/orbit/os.jpg"  />
+			<img src="/orbit/os.jpg"  />
 		</div>
 		<!-- Captions for Orbit -->
 		<span class="orbit-caption" id="htmlCaption"><strong>I'm A Badass Caption:</strong> I can haz <a href="#">links</a>, <em>style</em> or anything that is valid markup :)</span>
@@ -192,10 +186,8 @@
 
 
 	</div>
-
-</div>
-
-</div>
+</center>
+</p>
 <!-- End: Slider -->
 
 
@@ -218,16 +210,14 @@
 
 
 
-<!-- End: Main Content Area -->;T:preI"	<!-- Display slider -->
-<div id="display" class="container_16  content-wrapper">
-	<div id="display-content" class="grid_16 box box-shadow">
-
-
+<!-- End: Main Content Area -->;T:preI"¦<!-- Display slider -->
+<p>
+<center>
 		<div id="featured"> 
 		
 			<img src="/orbit/os.jpg"  />
-			<img src="/orbit/os1.jpg"  />
-			<img src="/orbit/os1.jpg"  />
+			<img src="/orbit/os.jpg"  />
+			<img src="/orbit/os.jpg"  />
 		</div>
 		<!-- Captions for Orbit -->
 		<span class="orbit-caption" id="htmlCaption"><strong>I'm A Badass Caption:</strong> I can haz <a href="#">links</a>, <em>style</em> or anything that is valid markup :)</span>
@@ -235,10 +225,8 @@
 
 
 	</div>
-
-</div>
-
-</div>
+</center>
+</p>
 <!-- End: Slider -->
 
 

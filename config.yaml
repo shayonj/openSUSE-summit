@@ -83,4 +83,4 @@ watcher:
 deploy:
   public:
     kind: rsync
-    dst:  "shayon.me:/var/www/suse/public"
+    dst:  "root@shayon.me:/var/www/suse2"

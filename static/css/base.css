@@ -202,7 +202,7 @@ h2.box-header, h2.box-subheader{text-indent:15px;font-size:1em;}
 .aside ul{list-style:none inside;}
 #display #lp-pr-image{margin-top:42px;margin-left:150px;}
 #display > div{margin-bottom:15px;}
-#display-content{height:350px;}
+#display-content{height:240px;}
 #display-content.ui-oo-box-shadow,#display-content.box{padding:0;overflow:hidden;}
 #quicklinks-wrapper{background:#222 url('images/bg_display-sidebar.png') no-repeat scroll 0 0;height:450px;border-top-right-radius:5px;border-bottom-right-radius:5px;-moz-border-radius-topright:5px;-moz-border-radius-bottomright:5px;-webkit-border-top-right-radius:5px;-webkit-border-bottom-right-radius:5px;-khtml-border-top-right-radius:5px;-khtml-border-bottom-right-radius:5px;}
 #quicklinks, #quicklinks .headline, #quicklinks .description{}

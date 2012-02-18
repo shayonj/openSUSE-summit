@@ -8,10 +8,10 @@
 }(function ($) {
   $.fn.tweet = function(o){
     var s = $.extend({
-      username: "opensuse",                           // [string or array] required unless using the 'query' option; one or more twitter screen names (use 'list' option for multiple names, where possible)
+      username: null,                           // [string or array] required unless using the 'query' option; one or more twitter screen names (use 'list' option for multiple names, where possible)
       list: null,                               // [string]   optional name of list belonging to username
       favorites: false,                         // [boolean]  display the user's favorites instead of his tweets
-      query: null,                              // [string]   optional search query (see also: http://search.twitter.com/operators)
+      query: "#opensuse",                              // [string]   optional search query (see also: http://search.twitter.com/operators)
       avatar_size: null,                        // [integer]  height and width of avatar if displayed (48px max)
       count: 5,                                 // [integer]  how many tweets to display?
       fetch: null,                              // [integer]  how many tweets to fetch via the API (set this higher than 'count' if using the 'filter' option)
@@ -20,11 +20,11 @@
       intro_text: null,                         // [string]   do you want text BEFORE your your tweets?
       outro_text: null,                         // [string]   do you want text AFTER your tweets?
       join_text:  null,                         // [string]   optional text in between date and tweet, try setting to "auto"
-      auto_join_text_default: "i said,",        // [string]   auto text for non verb: "i said" bullocks
-      auto_join_text_ed: "i",                   // [string]   auto text for past tense: "i" surfed
-      auto_join_text_ing: "i am",               // [string]   auto tense for present tense: "i was" surfing
-      auto_join_text_reply: "i replied to",     // [string]   auto tense for replies: "i replied to" @someone "with"
-      auto_join_text_url: "i was looking at",   // [string]   auto tense for urls: "i was looking at" http:...
+      auto_join_text_default: "",        // [string]   auto text for non verb: "i said" bullocks
+      auto_join_text_ed: "",                   // [string]   auto text for past tense: "i" surfed
+      auto_join_text_ing: "",               // [string]   auto tense for present tense: "i was" surfing
+      auto_join_text_reply: "",     // [string]   auto tense for replies: "i replied to" @someone "with"
+      auto_join_text_url: "",   // [string]   auto tense for urls: "i was looking at" http:...
       loading_text: null,                       // [string]   optional loading text, displayed while tweets load
       refresh_interval: null ,                  // [integer]  optional number of seconds after which to reload tweets
       twitter_url: "twitter.com",               // [string]   custom twitter url, if any (apigee, etc.)

@@ -2,16 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>A Brand New nanoc Site - <%= @item[:title] %></title>
-  <link rel="stylesheet" type="text/css" href="/style.css" media="screen">
+  <title>openSUSE Summit - <%= @item[:title] %></title>
   <meta name="generator" content="nanoc 3.3.0">
 </head>
 <body>
 
   <%= render 'scripts'%>
   <%= render 'header'%>
+
   <div id="content" class="container_16  content-wrapper">
+    	<div class="box box-shadow grid_10">
     <%= yield %>
+  </div>
     <%= render 'sidebar'%>
     <%= render 'footer'%>
   </div>

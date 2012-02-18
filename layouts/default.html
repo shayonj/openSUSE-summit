@@ -2,20 +2,24 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <%= render 'scripts'%>
   <title>openSUSE Summit - <%= @item[:title] %></title>
   <meta name="generator" content="nanoc 3.3.0">
+
 </head>
 <body>
-
-  <%= render 'scripts'%>
   <%= render 'header'%>
 
+  <!-- Start: Main Content Area -->
   <div id="content" class="container_16  content-wrapper">
-    	<div class="box box-shadow grid_10">
-    <%= yield %>
-  </div>
+    <div class="box box-shadow grid_10">
+      <%= yield%>
+    </div>
+
     <%= render 'sidebar'%>
-    <%= render 'footer'%>
+
   </div>
+  <!-- End: Main Content Area -->
+  <%= render 'footer'%>
 </body>
 </html>

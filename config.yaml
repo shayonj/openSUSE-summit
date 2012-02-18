@@ -84,3 +84,5 @@ deploy:
   public:
     kind: rsync
     dst:  "root@shayon.me:/var/www/suse2"
+    
+base_url: http://suse2.shayon.me

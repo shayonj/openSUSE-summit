@@ -16,6 +16,13 @@
 # compile '/stylesheet/' do
 #   # don’t filter or layout
 # end
+compile 'sitemap' do
+  filter :erb
+end
+
+route 'sitemap' do
+  item.identifier.chop + '.xml'
+end
 
 compile '/static/*/' do
   # don’t filter static items
@@ -29,6 +36,8 @@ compile '*' do
     layout 'default'
   end
 end
+
+
 
 route '/static/*/' do
   # write /static/blah.png to /blah.png

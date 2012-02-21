@@ -10,3 +10,6 @@ gem 'builder'
 
 # nanoc
 gem 'nanoc'
+
+#delpoy
+gem 'systemu'

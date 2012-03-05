@@ -9,7 +9,7 @@
 </head>
 <body>
   <%= render 'header'%>
-  a
+  <% if @item[:title] == "Home"%>
   <div class="mask">
     <div class="colleft">
       <div class="col1">
@@ -26,14 +26,13 @@
       </div>
       <div class="col2">
         <div id="content" class="container_16  content-wrapper">
-          <%= yield%>
+          <%= render "About"%>
         </div>
       </div>
     </div>
   </div>
 
   <%else%>
-  
   <!-- Start: Main Content Area -->
   <div id="content" class="container_16  content-wrapper">
     <div class="box box-shadow grid_10">
@@ -45,7 +44,6 @@
   </div>
   <!-- End: Main Content Area -->
   <%end%>
-  
   <%= render 'footer'%>
 </body>
 </html>

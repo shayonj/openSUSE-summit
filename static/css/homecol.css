@@ -7,20 +7,19 @@
 .colleft{
    position: relative;
    width: 100%;
-   right: 61%;
+   right: 76%;
 }
 .col1{
    position: relative;
    overflow: hidden;
    float: left;
-   width: 59%;
+   width: 74%;
    left: 101%;
 }
 .col2{
    position: relative;
    overflow: hidden;
    float: left;
-   width: 40%;
-   left: 2%;
+   width: 24%;
+   left: 3%;
 }
-

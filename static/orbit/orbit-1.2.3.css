@@ -156,13 +156,7 @@ div.slider-nav span {
     margin-top: -50px;
     cursor: pointer; }
 
-div.slider-nav span.right {
-    background: url(/images/orbit/right-arrow.png);
-    right: 0; }
 
-div.slider-nav span.left {
-    background: url(/images/orbit/left-arrow.png);
-    left: 0; }
 
 /* BULLET NAV
    ================================================== */

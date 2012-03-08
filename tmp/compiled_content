@@ -1,4 +1,4 @@
-{:	data{^I"/:ET{:default{	:	lastI"ý'<!DOCTYPE HTML>
+{:	data{^I"/:ET{:default{	:	lastI"Û,<!DOCTYPE HTML>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -157,15 +157,19 @@
       <div class="col2">
         <div id="content" class="container_16  content-wrapper">
           <h1>About The Summit </h1>
-<p>
-2012 marks the first year that we are holding a conference in the Americas region.  The openSUSE Summit aims to bring together the
-community to meet face-to-face and collaborate together on the things that matter the most to them within the openSUSE Project.</p>
-<p>
-Join us for 3 exciting days in Orlando, Florida for presentations, workshops and most importantly, fun and excitement.As a bonus, if 
-you register before September 15, you'll have a free admission to SUSECon's final day on Friday, September 21.  SUSECon is the main 
-conference of our parent sponsor and is held at the same location as our openSUSE Summit.</p>
+<p> Following <a href="http://www.suse.com/events/susecon/"> SUSEcon </a> the first ever openSUSE Summit will take place in the <a href="http://www.thecaribeorlando.com/"> Caribe Royale Hotel </a>, Orlando Florida, September 21-23. </p>
 
-<p>Be sure to check our links in the Navigation menu to get more registration and travel information.</p>
+<strong>Why YOU should be there! 
+</strong>
+<p>
+<strong>As one of the largest Linux distributions</strong>, openSUSE has close relationships with projects like GNOME and KDE, the Linux Kernel developers, SAMBA, ownCloud, Apache and many others. It is our job to bring their technologies to users around the globe. So at the Summit you'll find talks about the cutting edge developments in these projects as well as packaging and distribution infrastructure, ARM and mobile devices, rolling releases and much more.</p>
+<p>
+<strong>openSUSE lives up to its name.</strong> We're a very open community and expect and warmly welcome contributors not only from downstream projects but also other distributions like Fedora and Ubuntu to our Summit to contribute and colaborate on the latest Linux distribution technologies. There will be contributors not just from North America but also Central- and South America. And we don't have committees and steering boards making decisions and letting you contribute - YOU set the direction in openSUSE. This is how you do it!</p>
+<p>
+<strong>The Summit is about people</strong>. Interesting people from all around the globe, getting together to talk, discuss technology, decide on the future of Free Software - and have a lot of fun. We'll ensure a good balance between work and play with parties and there is even talk of a Cookout Faceoff!</p>
+
+<p>
+<strong>Code of Conduct</strong>. It is important for the openSUSE Summit Team to create an environment where everyone feels accepted and welcome. We expect all our visitors to behave according to our <a href-"http://en.opensuse.org/openSUSE:Conference_code_of_conduct"> Code of Conduct</a> and will take decisive action against any inappropriate behavior.</p>
         </div>
       </div>
     </div>
@@ -3836,48 +3840,48 @@ I"t<!-- Start: Main Content Area -->
 4"/sitemap/{;{;I"±<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://suse2.shayon.me/Media-Press/</loc>
-    <lastmod>2012-02-18</lastmod>
-  </url>
-  <url>
-    <loc>http://suse2.shayon.me/</loc>
-    <lastmod>2012-03-05</lastmod>
-  </url>
-  <url>
-    <loc>http://suse2.shayon.me/Location/</loc>
-    <lastmod>2012-03-05</lastmod>
-  </url>
-  <url>
-    <loc>http://suse2.shayon.me/Tickets/</loc>
-    <lastmod>2012-02-18</lastmod>
-  </url>
-  <url>
-    <loc>http://suse2.shayon.me/Partner/</loc>
-    <lastmod>2012-02-18</lastmod>
-  </url>
-  <url>
-    <loc>http://suse2.shayon.me/Promotion/</loc>
-    <lastmod>2012-02-18</lastmod>
-  </url>
-  <url>
     <loc>http://suse2.shayon.me/404/</loc>
-    <lastmod>2012-02-18</lastmod>
-  </url>
-  <url>
-    <loc>http://suse2.shayon.me/sitemap.xml</loc>
-    <lastmod>2012-02-18</lastmod>
-  </url>
-  <url>
-    <loc>http://suse2.shayon.me/Speaker/</loc>
-    <lastmod>2012-03-05</lastmod>
+    <lastmod>2012-03-08</lastmod>
   </url>
   <url>
     <loc>http://suse2.shayon.me/Code-of-conduct/</loc>
-    <lastmod>2012-02-18</lastmod>
+    <lastmod>2012-03-08</lastmod>
   </url>
   <url>
     <loc>http://suse2.shayon.me/extended-fluid/</loc>
     <lastmod>2012-02-14</lastmod>
+  </url>
+  <url>
+    <loc>http://suse2.shayon.me/</loc>
+    <lastmod>2012-03-08</lastmod>
+  </url>
+  <url>
+    <loc>http://suse2.shayon.me/Location/</loc>
+    <lastmod>2012-03-08</lastmod>
+  </url>
+  <url>
+    <loc>http://suse2.shayon.me/Media-Press/</loc>
+    <lastmod>2012-03-08</lastmod>
+  </url>
+  <url>
+    <loc>http://suse2.shayon.me/Partner/</loc>
+    <lastmod>2012-03-08</lastmod>
+  </url>
+  <url>
+    <loc>http://suse2.shayon.me/Promotion/</loc>
+    <lastmod>2012-03-08</lastmod>
+  </url>
+  <url>
+    <loc>http://suse2.shayon.me/sitemap.xml</loc>
+    <lastmod>2012-03-08</lastmod>
+  </url>
+  <url>
+    <loc>http://suse2.shayon.me/Speaker/</loc>
+    <lastmod>2012-03-08</lastmod>
+  </url>
+  <url>
+    <loc>http://suse2.shayon.me/Tickets/</loc>
+    <lastmod>2012-03-08</lastmod>
   </url>
 </urlset>
 ;T;	I"<%= xml_sitemap %>;T;

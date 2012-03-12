@@ -24,6 +24,14 @@ route 'sitemap' do
   item.identifier.chop + '.xml'
 end
 
+compile 'feed' do
+  filter :erb
+end
+
+route 'feed' do
+  item.identifier.chop + '.xml'
+end
+
 compile '/static/*/' do
   # don’t filter static items
 end
@@ -37,13 +45,13 @@ compile '*' do
   end
 end
 
-compile '/news/feed/' do
-  filter :erb
-end
-
-route '/news/feed/' do
-  '/feed.xml'
-end
+# compile '/news/feed/' do
+#   filter :erb
+# end
+# 
+# route '/news/feed/' do
+#   '/feed.xml'
+# end
 
 route '/static/*/' do
   # write /static/blah.png to /blah.png

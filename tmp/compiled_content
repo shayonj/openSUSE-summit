@@ -1,4 +1,4 @@
-{:	data{bI"/:ET{:default{	:	lastI"«,<!DOCTYPE HTML>
+{:	data{cI"/:ET{:default{	:	lastI"«,<!DOCTYPE HTML>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -39,7 +39,7 @@
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -721,7 +721,7 @@ a:hover {
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -1680,7 +1680,7 @@ I"|2<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -2557,7 +2557,7 @@ I"Ä2<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -2743,7 +2743,7 @@ I"<!-- Start: Main Content Area -->
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -2908,7 +2908,7 @@ I"é<!-- Start: Main Content Area -->
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -3151,7 +3151,7 @@ I"∂<!-- Start: Main Content Area -->
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -3334,7 +3334,7 @@ I"ù<!-- Start: Main Content Area -->
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -3517,7 +3517,7 @@ I"ù<!-- Start: Main Content Area -->
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -3697,7 +3697,7 @@ I"å<!-- Start: Main Content Area -->
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -3837,7 +3837,7 @@ I"t<!-- Start: Main Content Area -->
 
 
   <!-- End: Main Content Area -->;T;@
-4"/sitemap/{;{;I"ä<?xml version="1.0" encoding="UTF-8"?>
+4"/sitemap/{;{;I"(<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://suse2.shayon.me/404/</loc>
@@ -3846,10 +3846,6 @@ I"t<!-- Start: Main Content Area -->
   <url>
     <loc>http://suse2.shayon.me/</loc>
     <lastmod>2012-03-10</lastmod>
-  </url>
-  <url>
-    <loc>http://suse2.shayon.me/feed.xml</loc>
-    <lastmod>2012-03-11</lastmod>
   </url>
   <url>
     <loc>http://suse2.shayon.me/news/2012/03-11-hello_world1/</loc>
@@ -3864,15 +3860,15 @@ I"t<!-- Start: Main Content Area -->
     <lastmod>2012-03-10</lastmod>
   </url>
   <url>
-    <loc>http://suse2.shayon.me/sitemap.xml</loc>
-    <lastmod>2012-03-10</lastmod>
-  </url>
-  <url>
     <loc>http://suse2.shayon.me/Speaker/</loc>
     <lastmod>2012-03-10</lastmod>
   </url>
   <url>
     <loc>http://suse2.shayon.me/Partner/</loc>
+    <lastmod>2012-03-10</lastmod>
+  </url>
+  <url>
+    <loc>http://suse2.shayon.me/sitemap.xml</loc>
     <lastmod>2012-03-10</lastmod>
   </url>
   <url>
@@ -4079,7 +4075,7 @@ I"@TODO: Add content to `content/2012/03-11-hello_world.html.`;T;@E4I"#/news
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -4328,7 +4324,7 @@ I"FTODO: Add content to `content/news/2012/03-11-hello_world1.html.`;T;@K4I"
   <!-- End: Footer -->
 </body>
 </html>;T;	I" ;T;
-I" ;T;@Q4I"/news/feed/;T{;{	;I"¶<!DOCTYPE HTML>
+I" ;T;@Q4I"/news/feed/;T{;{	;I"˚<!DOCTYPE HTML>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -4369,7 +4365,7 @@ I" ;T;@Q4I"/news/feed/;T{;{	;I"¶<!DOCTYPE HTML>
 <script language="javascript" src="/tweet/jquery.tweet.js" type="text/javascript"></script>
 <link href="/tweet/jquery.tweet.css" media="all" rel="stylesheet" type="text/css"/>
 
-        <script type='text/javascript'>
+        <script type="text/javascript">
             jQuery(function($){
                 $(".tweet").tweet({
                     join_text: "auto",
@@ -4381,7 +4377,7 @@ I" ;T;@Q4I"/news/feed/;T{;{	;I"¶<!DOCTYPE HTML>
         </script>
 
 <!-- Twitter feed ends here-->
-  <title>openSUSE Summit - </title>
+  <title>openSUSE Summit - mgutz.com Syndication</title>
   <meta name="generator" content="nanoc 3.3.0">
 
 </head>
@@ -4422,7 +4418,27 @@ I" ;T;@Q4I"/news/feed/;T{;{	;I"¶<!DOCTYPE HTML>
   <!-- Start: Main Content Area -->
   <div id="content" class="container_16  content-wrapper">
     <div class="box box-shadow grid_10">
-      
+      <?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://suse2.shayon.me/</id>
+  <title>mgutz.com Syndication</title>
+  <updated>2012-03-11T06:00:00Z</updated>
+  <link rel="alternate" href="http://suse2.shayon.me/"/>
+  <link rel="self" href="http://suse2.shayon.me/feed.xml"/>
+  <author>
+    <name>Mario Gutierrez</name>
+    <uri>http://mgutz.com</uri>
+  </author>
+  <entry>
+    <id>tag:suse2.shayon.me,2012-03-11:/news/2012/03-11-hello_world1/</id>
+    <title type="html">Hello World1</title>
+    <published>2012-03-11T06:00:00Z</published>
+    <updated>2012-03-11T06:00:00Z</updated>
+    <link rel="alternate" href="http://suse2.shayon.me/news/2012/03-11-hello_world1/"/>
+    <content type="html">TODO: Add content to `content/news/2012/03-11-hello_world1.html.`</content>
+  </entry>
+</feed>
+
     </div>
 
     <div class="box box-shadow grid_6 omega">
@@ -4472,5 +4488,46 @@ I" ;T;@Q4I"/news/feed/;T{;{	;I"¶<!DOCTYPE HTML>
   </div>
   <!-- End: Footer -->
 </body>
-</html>;T;	I" ;T;
-I" ;T;@W4:versioni
+</html>;T;	I"(<%= atom_feed :kind => 'article' %>;T;
+I"@<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://suse2.shayon.me/</id>
+  <title>mgutz.com Syndication</title>
+  <updated>2012-03-11T06:00:00Z</updated>
+  <link rel="alternate" href="http://suse2.shayon.me/"/>
+  <link rel="self" href="http://suse2.shayon.me/feed.xml"/>
+  <author>
+    <name>Mario Gutierrez</name>
+    <uri>http://mgutz.com</uri>
+  </author>
+  <entry>
+    <id>tag:suse2.shayon.me,2012-03-11:/news/2012/03-11-hello_world1/</id>
+    <title type="html">Hello World1</title>
+    <published>2012-03-11T06:00:00Z</published>
+    <updated>2012-03-11T06:00:00Z</updated>
+    <link rel="alternate" href="http://suse2.shayon.me/news/2012/03-11-hello_world1/"/>
+    <content type="html">TODO: Add content to `content/news/2012/03-11-hello_world1.html.`</content>
+  </entry>
+</feed>
+;T;@W4I"/feed/;T{;{;I"@<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://suse2.shayon.me/</id>
+  <title>mgutz.com Syndication</title>
+  <updated>2012-03-11T06:00:00Z</updated>
+  <link rel="alternate" href="http://suse2.shayon.me/"/>
+  <link rel="self" href="http://suse2.shayon.me/feed.xml"/>
+  <author>
+    <name>Mario Gutierrez</name>
+    <uri>http://mgutz.com</uri>
+  </author>
+  <entry>
+    <id>tag:suse2.shayon.me,2012-03-11:/news/2012/03-11-hello_world1/</id>
+    <title type="html">Hello World1</title>
+    <published>2012-03-11T06:00:00Z</published>
+    <updated>2012-03-11T06:00:00Z</updated>
+    <link rel="alternate" href="http://suse2.shayon.me/news/2012/03-11-hello_world1/"/>
+    <content type="html">TODO: Add content to `content/news/2012/03-11-hello_world1.html.`</content>
+  </entry>
+</feed>
+;T;	I"(<%= atom_feed :kind => 'article' %>;T;
+@]4:versioni

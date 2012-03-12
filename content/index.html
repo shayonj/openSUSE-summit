@@ -2,23 +2,15 @@
 title: Home
 ---
 
-
-
-
 <!-- Start: Main Content Area -->
 <h2 class="box-header">Latest News</h2>
-<h1> openSUSE launches Summit website! </h1>
-<p>Welcome to the launch of our openSUSE Summit.  Summit may still be several months away, but we're so excited and we're sure you are too.</p>  
+<% @site.sorted_articles[0, 5].each do |article| %>
 
-<p>Be sure to check often as we release updates about important Summit news about our Summit and more.  
-   For your convenience, you can subscribe to our feed <link here>.</p>
+<h1> <%= article[:title] %> </h1>
+<p align="right"> Published at : <%= article[:created_at] %></p>
+<p><%= article[:excerpt]  %> ... </p>
+<p align="right"> <%= link_to("Read more . . .", article.path) %> </p>
 <hr>
-<% @site.sorted_articles[0, 10].each do |article| %>
-<p>
-<h1> <%= article[:title] %> </h1><br/>
-<%= article[:created_at] %> <br/>
-<%= article[:excerpt]  %> <br/></p>
-<%= link_to("Read more . . .", article.path) %>
 <% end %>
 
 

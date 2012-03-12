@@ -1,4 +1,4 @@
-{:	data{cI"/:ET{:default{	:	lastI"Ç,<!DOCTYPE HTML>
+{:	data{cI"/:ET{:default{	:	lastI"'<!DOCTYPE HTML>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -117,13 +117,14 @@
 <p>Be sure to check often as we release updates about important Summit news about our Summit and more.  
    For your convenience, you can subscribe to our feed <link here>.</p>
 <hr>
-<h3>Title</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+
+<p>
+<h1> Hello World1 </h1><br/>
+2012-03-11 <br/>
+TODO:  <br/></p>
+<a href="/news/2012/03-11-hello_world1/">Read more . . .</a>
 
 
-      <h3>Title 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in cillum dolore eu fugiat nulla pariatur.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p
 
 <!-- End: Main Content Area -->
           </div>
@@ -197,7 +198,7 @@
   </div>
   <!-- End: Footer -->
 </body>
-</html>;T:rawI"ó<!-- Start: Main Content Area -->
+</html>;T:rawI"Á<!-- Start: Main Content Area -->
 <h2 class="box-header">Latest News</h2>
 <h1> openSUSE launches Summit website! </h1>
 <p>Welcome to the launch of our openSUSE Summit.  Summit may still be several months away, but we're so excited and we're sure you are too.</p>  
@@ -205,9 +206,16 @@
 <p>Be sure to check often as we release updates about important Summit news about our Summit and more.  
    For your convenience, you can subscribe to our feed <link here>.</p>
 <hr>
-<%= random_text %>
+<% @site.sorted_articles[0, 10].each do |article| %>
+<p>
+<h1> <%= article[:title] %> </h1><br/>
+<%= article[:created_at] %> <br/>
+<%= article[:excerpt]  %> <br/></p>
+<%= link_to("Read more . . .", article.path) %>
+<% end %>
 
-<!-- End: Main Content Area -->;T:preI"&<!-- Start: Main Content Area -->
+
+<!-- End: Main Content Area -->;T:preI"c<!-- Start: Main Content Area -->
 <h2 class="box-header">Latest News</h2>
 <h1> openSUSE launches Summit website! </h1>
 <p>Welcome to the launch of our openSUSE Summit.  Summit may still be several months away, but we're so excited and we're sure you are too.</p>  
@@ -215,13 +223,14 @@
 <p>Be sure to check often as we release updates about important Summit news about our Summit and more.  
    For your convenience, you can subscribe to our feed <link here>.</p>
 <hr>
-<h3>Title</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+
+<p>
+<h1> Hello World1 </h1><br/>
+2012-03-11 <br/>
+TODO:  <br/></p>
+<a href="/news/2012/03-11-hello_world1/">Read more . . .</a>
 
 
-      <h3>Title 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in cillum dolore eu fugiat nulla pariatur.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p
 
 <!-- End: Main Content Area -->;T:	post@
 I"/stylesheet/;T{;{	;I"ø<!DOCTYPE HTML>
@@ -3845,7 +3854,7 @@ I"t<!-- Start: Main Content Area -->
   </url>
   <url>
     <loc>http://suse2.shayon.me/</loc>
-    <lastmod>2012-03-10</lastmod>
+    <lastmod>2012-03-11</lastmod>
   </url>
   <url>
     <loc>http://suse2.shayon.me/news/2012/03-11-hello_world1/</loc>
@@ -4509,16 +4518,16 @@ I"@<?xml version="1.0" encoding="UTF-8"?>
     <content type="html">TODO: Add content to `content/news/2012/03-11-hello_world1.html.`</content>
   </entry>
 </feed>
-;T;@W4I"/feed/;T{;{;I"@<?xml version="1.0" encoding="UTF-8"?>
+;T;@W4I"/feed/;T{;{;I"g<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://suse2.shayon.me/</id>
-  <title>mgutz.com Syndication</title>
+  <title>openSUSE Summit</title>
   <updated>2012-03-11T06:00:00Z</updated>
   <link rel="alternate" href="http://suse2.shayon.me/"/>
   <link rel="self" href="http://suse2.shayon.me/feed.xml"/>
   <author>
-    <name>Mario Gutierrez</name>
-    <uri>http://mgutz.com</uri>
+    <name>openSUSE</name>
+    <uri>http://summit.opensuse.org</uri>
   </author>
   <entry>
     <id>tag:suse2.shayon.me,2012-03-11:/news/2012/03-11-hello_world1/</id>
@@ -4527,6 +4536,7 @@ I"@<?xml version="1.0" encoding="UTF-8"?>
     <updated>2012-03-11T06:00:00Z</updated>
     <link rel="alternate" href="http://suse2.shayon.me/news/2012/03-11-hello_world1/"/>
     <content type="html">TODO: Add content to `content/news/2012/03-11-hello_world1.html.`</content>
+    <summary type="html">TODO: </summary>
   </entry>
 </feed>
 ;T;	I"(<%= atom_feed :kind => 'article' %>;T;

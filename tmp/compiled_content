@@ -1,4 +1,4 @@
-{:	data{dI"/:ET{:default{	:	lastI"G#<!DOCTYPE HTML>
+{:	data{fI"/:ET{:default{	:	lastI"G#<!DOCTYPE HTML>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -2676,7 +2676,7 @@ I"<!-- Start: Main Content Area -->
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in cillum dolore eu fugiat nulla pariatur.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p
 
 
-<!-- End: Main Content Area -->;T;@æ3"/Media-Press/{;{	;I"; <!DOCTYPE HTML>
+<!-- End: Main Content Area -->;T;@æ3"/Media-Press/{;{	;I"ô<!DOCTYPE HTML>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -2769,13 +2769,23 @@ I"<!-- Start: Main Content Area -->
   <div id="content" class="container_16  content-wrapper">
     <div class="box box-shadow grid_10">
       <!-- Start: Main Content Area -->
-<p><h3>Title</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+<h1> Press room </h1>
+<p>The openSUSE Conference will feature a press room suitable for interviews. Please let us know if you would like to make use of this facility.</p>
 
+<h1>Press conference</h1>
+<p>At the openSUSE Summit a press conference will be held to allow questioning the keynote speakers as well as people from the openSUSE Board. 
+  The preliminairy time and date for the press conference is Friday, Sept 21, after the keynote, 14:00-14:30.</p>
 
-      <h3>Title 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in cillum dolore eu fugiat nulla pariatur.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p</p>
+<h1>Contact</h1>
+<p>If you would like more information, please contact Jos Poortvliet, +49 (0) 160 6372857 or jos at opensuse.org</p>
+
+<h1>Logo</h1>
+<img src="/images/Logo_big.png" height="400px" width="400px" alt="Logo" />
+
+<p> You can download the logo and poster sources in SVG and many other conference materials 
+<a href="https://github.com/openSUSE/artwork/tree/master/conference/openSUSE%20Summit%202012"> from this page on GitHub </a>. 
+For a quick github how-to, see the image below. </p>
+<img src="/images/Github.jpg" height="800px" width="800px" alt="Github" />
 <!-- End: Main Content Area -->
     </div>
 
@@ -2826,17 +2836,43 @@ I"<!-- Start: Main Content Area -->
   </div>
   <!-- End: Footer -->
 </body>
-</html>;T;	I"`<!-- Start: Main Content Area -->
-<p><%= random_text %></p>
+</html>;T;	I"G<!-- Start: Main Content Area -->
+<h1> Press room </h1>
+<p>The openSUSE Conference will feature a press room suitable for interviews. Please let us know if you would like to make use of this facility.</p>
+
+<h1>Press conference</h1>
+<p>At the openSUSE Summit a press conference will be held to allow questioning the keynote speakers as well as people from the openSUSE Board. 
+  The preliminairy time and date for the press conference is Friday, Sept 21, after the keynote, 14:00-14:30.</p>
+
+<h1>Contact</h1>
+<p>If you would like more information, please contact Jos Poortvliet, +49 (0) 160 6372857 or jos at opensuse.org</p>
+
+<h1>Logo</h1>
+<img src="/images/Logo_big.png" height="400px" width="400px" alt="Logo" />
+
+<p> You can download the logo and poster sources in SVG and many other conference materials 
+<a href="https://github.com/openSUSE/artwork/tree/master/conference/openSUSE%20Summit%202012"> from this page on GitHub </a>. 
+For a quick github how-to, see the image below. </p>
+<img src="/images/Github.jpg" height="800px" width="800px" alt="Github" />
 <!-- End: Main Content Area -->;T;
-I"Ž<!-- Start: Main Content Area -->
-<p><h3>Title</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
+I"G<!-- Start: Main Content Area -->
+<h1> Press room </h1>
+<p>The openSUSE Conference will feature a press room suitable for interviews. Please let us know if you would like to make use of this facility.</p>
 
+<h1>Press conference</h1>
+<p>At the openSUSE Summit a press conference will be held to allow questioning the keynote speakers as well as people from the openSUSE Board. 
+  The preliminairy time and date for the press conference is Friday, Sept 21, after the keynote, 14:00-14:30.</p>
 
-      <h3>Title 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in cillum dolore eu fugiat nulla pariatur.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p</p>
+<h1>Contact</h1>
+<p>If you would like more information, please contact Jos Poortvliet, +49 (0) 160 6372857 or jos at opensuse.org</p>
+
+<h1>Logo</h1>
+<img src="/images/Logo_big.png" height="400px" width="400px" alt="Logo" />
+
+<p> You can download the logo and poster sources in SVG and many other conference materials 
+<a href="https://github.com/openSUSE/artwork/tree/master/conference/openSUSE%20Summit%202012"> from this page on GitHub </a>. 
+For a quick github how-to, see the image below. </p>
+<img src="/images/Github.jpg" height="800px" width="800px" alt="Github" />
 <!-- End: Main Content Area -->;T;@ì3"/Location/{;{	;I"`<!DOCTYPE HTML>
 <html lang="en">
 <head>
@@ -3787,7 +3823,7 @@ I"t<!-- Start: Main Content Area -->
 
 
   <!-- End: Main Content Area -->;T;@
-4"/sitemap/{;{;I":<?xml version="1.0" encoding="UTF-8"?>
+4"/sitemap/{;{;I"Ö<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://suse2.shayon.me/404/</loc>
@@ -3831,11 +3867,7 @@ I"t<!-- Start: Main Content Area -->
   </url>
   <url>
     <loc>http://suse2.shayon.me/Media-Press/</loc>
-    <lastmod>2012-03-10</lastmod>
-  </url>
-  <url>
-    <loc>http://suse2.shayon.me/Promotion/</loc>
-    <lastmod>2012-03-10</lastmod>
+    <lastmod>2012-03-12</lastmod>
   </url>
 </urlset>
 ;T;	I"<%= xml_sitemap %>;T;
@@ -4756,4 +4788,4 @@ early-bird-registration goodies!</p>
 
 <p>The project is controlled by its community and relies on the contributions of individuals, working as testers, writers, 
 translators, usability experts, artists, ambassadors and developers. The project embraces a wide variety of technology, 
-people with different levels of expertise, speaking different languages and having different cultural backgrounds.</p>;T;@b4:versioni
+people with different levels of expertise, speaking different languages and having different cultural backgrounds.</p>;T;@b4I"/static/images/Github.jpg/;T{;{ I"!/static/images/Logo_big.png/;T{;{ :versioni

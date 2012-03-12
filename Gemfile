@@ -4,7 +4,8 @@ source :gemcutter
 gem 'adsf'
 gem 'mime-types'
 gem 'rack'
-
+gem "activesupport"
+gem "rake"
 # Dependency for XML Sitemap generation
 gem 'builder'
 

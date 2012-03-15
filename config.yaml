@@ -81,8 +81,8 @@ watcher:
   notify_on_compilation_failure: true
   
 deploy:
-  public:
+  stage:
     kind: rsync
     dst:  "root@shayon.me:/var/www/suse2"
     
-base_url: http://suse2.shayon.me
+base_url: http://summit.opensuse.org

@@ -62,16 +62,6 @@ compile '*' do
 end
 
 
-
-
-# compile '/news/feed/' do
-#   filter :erb
-# end
-# 
-# route '/news/feed/' do
-#   '/feed.xml'
-# end
-
 route '/static/*/' do
   # write /static/blah.png to /blah.png
   item.identifier.chop.sub(%r{^/static}, '')

@@ -1,3 +1,4 @@
+/* 3 column for the index */
 .mask{
    position: relative;
    overflow: hidden;
@@ -23,3 +24,6 @@
    width: 24%;
    left: 3%;
 }
+
+/* For soc buttons on the nav bar*/
+#soc-buttons{float:right;margin-top:1px;position:relative;}
